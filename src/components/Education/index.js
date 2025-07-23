@@ -4,7 +4,6 @@ import { education } from "../../data/information";
 import EducationCard from'../cards/EducationCard'
 import { VerticalTimeline } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
-import { Chrono } from "react-chrono";
 
 const Container = styled.div`
 margin-top: 100px;
